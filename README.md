@@ -1,21 +1,28 @@
-# app-privacy-policy
+Privacy-Policy UniBee
+Τελευταία Ενημέρωση: 11/08/2023
+Η παρούσα πολιτική απορρήτου περιγράφει πώς το UniBee συλλέγει, χρησιμοποιεί και μοιράζεται πληροφορίες όταν χρησιμοποιείτε την κινητή μας εφαρμογή.
 
-Privacy Policy for UniBee Last Updated: 11/08/2023
+Πληροφορίες που Συλλέγουμε:
+Δεδομένα Τοποθεσίας: Συλλέγουμε το γεωγραφικό μήκος και πλάτος της συσκευής σας για να καθορίσουμε την εγγύτητά σας στα καταστήματα που εμφανίζονται στην εφαρμογή μας. Αυτές οι πληροφορίες χρησιμοποιούνται αποκλειστικά για τον υπολογισμό της απόστασης σας από κάθε κατάστημα και δεν αποθηκεύονται ή μοιράζονται με τρίτους.
 
-This privacy policy describes how UniBee collects, uses, and shares information when you use our mobile application.
+Πληροφορίες Καταστημάτων: Τα καταστήματα μας παρέχουν δεδομένα όπως λογότυπα, τοποθεσία, σύνδεσμους ιστοσελίδων και άλλες σχετικές λεπτομέρειες. Αυτές οι πληροφορίες εμφανίζονται στην εφαρμογή μας για να έχουν πρόσβαση και να τις χρησιμοποιούν οι χρήστες.
 
-Information We Collect: Location Data: We collect your device's longitude and latitude to determine your proximity to shops listed in our app. This information is used solely for the purpose of showing you the distance to each shop and is not stored or shared with third parties.
-Shop Information: Shops provide us with data including their logos, location, website links, and other relevant details. This information is displayed in our app for users to access and use.
+Πώς Χρησιμοποιούμε τις Πληροφορίες:
+Δεδομένα Τοποθεσίας: Τα δεδομένα της τοποθεσίας σας χρησιμοποιούνται σε πραγματικό χρόνο για τον υπολογισμό της απόστασης μεταξύ σας και των καταστημάτων που εμφανίζονται στην εφαρμογή μας. Τα δεδομένα είναι προσωρινά και δεν αποθηκεύονται στους διακομιστές μας.
 
-How We Use Information: Location Data: Your location data is used in real-time to calculate the distance between you and the shops listed in our app. This data is transient and is not stored on our servers.
-Shop Information: We display the shop data in our app to provide users with information about discounts and job offers for students.
+Πληροφορίες Καταστημάτων: Εμφανίζουμε τα δεδομένα των καταστημάτων στην εφαρμογή μας για να παρέχουμε στους χρήστες πληροφορίες σχετικά με εκπτώσεις και προσφορές εργασίας για φοιτητές.
 
-Information Sharing: We do not share your personal data, including location data, with third parties. The information from shops is displayed publicly within the app, as provided by the respective shops.
+Κοινοποίηση Πληροφοριών:
+Δεν μοιραζόμαστε τα προσωπικά σας δεδομένα, συμπεριλαμβανομένων των δεδομένων τοποθεσίας, με τρίτους. Οι πληροφορίες από τα καταστήματα εμφανίζονται δημόσια εντός της εφαρμογής, όπως παρέχονται από τα αντίστοιχα καταστήματα.
 
-Children’s Privacy: Our app does not target children under the age of 13, and we do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete such information from our servers immediately.
+Απόρρητο Παιδιών:
+Η εφαρμογή μας δεν απευθύνεται σε παιδιά κάτω των 13 ετών και δεν συλλέγουμε εν γνώσει μας προσωπικές πληροφορίες από παιδιά κάτω των 13 ετών. Εάν ανακαλύψουμε ότι ένα παιδί κάτω των 13 ετών μας έχει παράσχει προσωπικές πληροφορίες, θα διαγράψουμε τις πληροφορίες από τους διακομιστές μας αμέσως.
 
-Security: We take reasonable measures to protect the information that we collect from or about you from unauthorized access, use, or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is entirely secure. Accordingly, we cannot guarantee the absolute security of any information.
+Ασφάλεια:
+Λαμβάνουμε λογικά μέτρα για την προστασία των πληροφοριών που συλλέγουμε από εσάς ή για εσάς από μη εξουσιοδοτημένη πρόσβαση, χρήση ή αποκάλυψη. Παρακαλούμε να είστε ενήμεροι ότι καμία μέθοδος μετάδοσης πληροφοριών μέσω του Διαδικτύου ή αποθήκευσης πληροφοριών δεν είναι απολύτως ασφαλής. Συνεπώς, δεν μπορούμε να εγγυηθούμε την απόλυτη ασφάλεια καμίας πληροφορίας.
 
-Changes to the Privacy Policy: We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. Changes to this Privacy Policy are effective when they are posted on this page.
+Αλλαγές στην Πολιτική Απορρήτου:
+Ενδέχεται να ενημερώσουμε την Πολιτική Απορρήτου μας κατά καιρούς. Θα σας ενημερώσουμε για οποιεσδήποτε αλλαγές, αναρτώντας τη νέα Πολιτική Απορρήτου σε αυτή τη σελίδα. Οι αλλαγές στην πολιτική απορρήτου είναι ισχύουσες από τη στιγμή που αναρτώνται σε αυτή τη σελίδα.
 
-Contact Us: If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@uni-bee.gr.
+Επικοινωνία:
+Εάν έχετε οποιεσδήποτε ερωτήσεις ή προτάσεις σχετικά με την Πολιτική Απορρήτου μας, μην διστάσετε να επικοινωνήσετε μαζί μας στο support@uni-bee.gr.
